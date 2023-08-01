@@ -26,10 +26,10 @@ You can use `git-hist` as a git subcommand, so the hyphen is not required.
 
 ### Keymap
 
-- <kbd>Left</kbd> / <kbd>Right</kbd> : Go to a previous/next commit.
-- <kbd>Up</kbd> / <kbd>Down</kbd> or mouse scrolls: Scroll up/down.
-- <kbd>PageUp</kbd> / <kbd>PageDown</kbd> : Scroll page up/down.
-- <kbd>Home</kbd> / <kbd>End</kbd> : Scroll to the top/bottom.
+- <kbd>Left</kbd> | <kbd>h</kbd> / <kbd>Right</kbd> | <kbd>l</kbd> : Go to a previous/next commit.
+- <kbd>Up</kbd> | <kbd>k</kbd> / <kbd>Down</kbd> | <kbd>j</kbd> or mouse scrolls: Scroll up/down.
+- <kbd>PageUp</kbd> | <kbd>u</kbd> / <kbd>PageDown</kbd> | <kbd>d</kbd> : Scroll page up/down.
+- <kbd>Home</kbd> | <kbd>g</kbd> / <kbd>End</kbd> | <kbd>G</kbd> : Scroll to the top/bottom.
 - <kbd>q</kbd>, <kbd>Ctrl</kbd>+<kbd>c</kbd>, <kbd>Ctrl</kbd>+<kbd>d</kbd> : Exit.
 
 ### Help
